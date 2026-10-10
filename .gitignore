@@ -1,0 +1,15 @@
+# Logs produced by the script
+*.log
+*.tmp
+
+# Local, environment-specific settings and secrets
+config/settings.local.txt
+*.key
+*.pwd
+.env
+
+# OS / editor
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
